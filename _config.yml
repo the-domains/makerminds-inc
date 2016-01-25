@@ -1,7 +1,7 @@
 name: 'Makerminds, Inc.'
 favicon: null
-layout_spectrum: 0.5548411156050861
-typography_spectrum: 0.8470206067431718
+layout_spectrum: 0.20159946149215102
+typography_spectrum: 0.9142448215279728
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.6667527963872999
-  lightness: 0.7232256075367332
-  saturation: 0.6000493501778692
-  rhythmicContrast: 0.6708252972457558
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7873333825264126
+  lightness: 0.008042238187044859
+  saturation: 0.1597008011303842
+  rhythmicContrast: 0.17268883460201323
 purpose: []
